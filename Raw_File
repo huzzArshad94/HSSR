@@ -1,0 +1,3 @@
+raw_file = "StringRawFile"
+
+print("raw_file")
